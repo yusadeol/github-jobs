@@ -1,29 +1,30 @@
 # GitHub Jobs
 
-Projeto em desenvolvimento para visualização de vagas de emprego.  
-Consome uma API própria com dados fictícios.
+Project currently under development for displaying job listings.  
+It consumes a custom API that provides fake job data.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/54549125/194464910-316347f4-ceb1-453f-9878-39a779a8269a.gif" alt="GitHub Jobs">
 </div>
 
-## Descrição
+## Description
 
-O GitHub Jobs é um projeto em andamento que busca fornecer uma interface para visualização de vagas de emprego.
-O foco é proporcionar uma experiência amigável e informativa aos usuários.
+GitHub Jobs is an ongoing project designed to provide an interface for browsing job opportunities.  
+The focus is to deliver a simple, friendly, and informative user experience.
 
-## Funcionalidades
+## Features
 
-- Listagem de vagas com informações básicas
-- Visualização detalhada de uma vaga
-- Filtro por título da vaga
-- Filtro por localidade
-- Layout responsivo
+- Job listing with basic information  
+- Detailed job view  
+- Filter by job title  
+- Filter by location  
+- Responsive layout  
 
-## API Utilizada
+## API Used
 
-O GitHub Jobs utiliza uma API construída por mim para obter informações sobre vagas de emprego,
-disponível neste [repositório](https://github.com/yusadeol/github-jobs-api). A API fornece dados fictícios para ilustrar o funcionamento do sistema.
+GitHub Jobs uses a custom API built by me to retrieve job data,  
+available in this [repository](https://github.com/yusadeol/github-jobs-api).  
+The API provides fake data to illustrate how the system works.
 
 ## License
 
