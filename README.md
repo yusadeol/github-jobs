@@ -27,4 +27,4 @@ disponível neste [repositório](https://github.com/yusadeol/github-jobs-api). A
 
 ## License
 
-Berry is open-sourced software licensed under the [MIT license](LICENSE).
+GitHub Jobs is open-sourced software licensed under the [MIT license](LICENSE).
